@@ -1,12 +1,13 @@
-.kangaroo{
-    width: 500px;
-    height: 500px;
+.gallery{
+    padding: 80px 0;
 }
-.underwing{
-    width: 500px;
-    height: 500px;
+
+.gallery img{
+    padding: 15px;
+    cursor: pointer;
 }
-.cockroach{
-    width: 500px;
-    height: 500px;
+
+.img-2{
+    padding: 15px;
+    cursor: pointer;
 }
