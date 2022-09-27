@@ -11,3 +11,6 @@
     padding: 15px;
     cursor: pointer;
 }
+.btn-toolbar{
+    align-items: center;
+}
